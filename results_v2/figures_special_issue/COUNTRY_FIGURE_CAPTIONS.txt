@@ -1,0 +1,11 @@
+COUNTRY / ELECTRICITY-SYSTEM FIGURE CAPTIONS
+
+Figure 12. Renewable-alignment improvement across the 33 eligible European electricity systems and market zones. Rows are ordered according to the strongest DRL result observed for each system. Green cells indicate positive improvement in temporal alignment between electricity demand and wind-plus-solar availability, whereas red cells indicate deterioration. National systems and subnational market or control zones are named explicitly to avoid treating every OPSD series as a separate sovereign country.
+
+Figure 13. Ranked comparison of renewable-alignment improvement across individual European electricity systems and market zones. Markers show the mean evaluation result and horizontal intervals show descriptive 95% confidence intervals across the corresponding evaluation episodes. The zero reference line separates positive renewable-aware improvement from deterioration. Inferential conclusions in the manuscript should continue to use electricity systems, rather than evaluation episodes, as the independent statistical units.
+
+Figure 14. Best-performing DRL controller for every evaluated electricity system or market zone. Bar length represents the renewable-alignment improvement of the strongest DRL method, while bar color and the adjacent label identify whether PPO, SAC, or TD3 obtained the highest system-level result. This figure highlights geographic and market-level heterogeneity in the preferred adaptive controller.
+
+Figure 15. Electricity systems with the lowest and highest renewable-alignment benefits obtained by the strongest DRL controller. The side-by-side ranking exposes cross-system heterogeneity and identifies the energy systems for which renewable-aware learning delivers the clearest or weakest benefit.
+
+Figure 16. Multi-objective ranks of PPO, SAC, and TD3 across individual electricity systems. Ranks combine renewable-alignment improvement, peak reduction, ramp reduction, constraint-violation rate, and final deferred demand, with a lower mean rank indicating a more balanced controller. This figure complements the alignment-only comparison by showing whether the same algorithm remains competitive after operational feasibility is considered.

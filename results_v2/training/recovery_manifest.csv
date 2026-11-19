@@ -1,0 +1,10 @@
+method,seed,status,starting_timestep,additional_timesteps,training_seconds,source_model,final_model
+PPO,11,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\PPO_seed11_final.zip,D:\FINKI\ai-driven\results_v2\models\PPO_seed11_final.zip
+PPO,25,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\PPO_seed25_final.zip,D:\FINKI\ai-driven\results_v2\models\PPO_seed25_final.zip
+PPO,125,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\PPO_seed125_final.zip,D:\FINKI\ai-driven\results_v2\models\PPO_seed125_final.zip
+SAC,11,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\SAC_seed11_final.zip,D:\FINKI\ai-driven\results_v2\models\SAC_seed11_final.zip
+SAC,25,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\SAC_seed25_final.zip,D:\FINKI\ai-driven\results_v2\models\SAC_seed25_final.zip
+SAC,125,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\SAC_seed125_final.zip,D:\FINKI\ai-driven\results_v2\models\SAC_seed125_final.zip
+TD3,11,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\TD3_seed11_final.zip,D:\FINKI\ai-driven\results_v2\models\TD3_seed11_final.zip
+TD3,25,already_complete,252000,0,0.0,D:\FINKI\ai-driven\results_v2\models\TD3_seed25_final.zip,D:\FINKI\ai-driven\results_v2\models\TD3_seed25_final.zip
+TD3,125,resumed_and_completed,126000,126000,734.9800053000072,D:\FINKI\ai-driven\results_v2\checkpoints\TD3_seed125_step126000.zip,D:\FINKI\ai-driven\results_v2\models\TD3_seed125_final.zip

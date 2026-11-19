@@ -1,0 +1,23 @@
+FIGURE CAPTIONS
+
+Figure 1. Geographic coverage of the 33 eligible European electricity systems used in the renewable-aware demand-response experiment, grouped by the five geographic regions considered in the study.
+
+Figure 2. Distribution of hourly renewable penetration across the evaluated European regions. The boxes represent the interquartile range, the central lines denote medians, and whiskers summarize the non-outlier range.
+
+Figure 3. Mean renewable-alignment improvement across electricity systems, with 95% confidence intervals computed using electricity systems as the independent statistical units. Positive values indicate stronger temporal alignment of electricity consumption with wind and solar availability.
+
+Figure 4. Regional heatmap of renewable-alignment improvement for PPO, SAC, TD3, and the rule-based controller. Values report the mean percentage improvement across electricity systems in each geographic region.
+
+Figure 5. Distribution of weekly demand-flexibility utilization, expressed as the absolute shifted energy relative to total weekly electricity demand. The figure illustrates how aggressively each controller uses the available demand-response flexibility.
+
+Figure 6. Mean physical load-shift action across five levels of renewable availability. Positive actions restore or increase flexible demand, whereas negative actions defer demand. A renewable-aware policy should systematically adapt its actions as renewable availability changes.
+
+Figure 7. Representative weekly operation for an electricity system with median renewable penetration. The upper panel shows original demand and available wind-plus-solar generation, while the lower panel shows the controller-specific demand adjustment relative to the original load.
+
+Figure 8. Relationship between system-level renewable penetration and renewable-alignment improvement for the three DRL controllers. Trend lines and Pearson correlation coefficients indicate whether benefits increase in systems with greater renewable availability.
+
+Figure 9. Mean deferred-demand backlog across the 168-hour evaluation horizon. Lower values and complete restoration near the end of the episode indicate more operationally feasible demand-response behavior.
+
+Figure 10. Operational feasibility diagnostics covering action saturation, constraint violations, and final deferred demand. These indicators complement reward-based performance by exposing unrealistic or unsafe control behavior.
+
+Figure 11. Mean inference latency per control decision with 95% confidence intervals across electricity systems. This metric assesses whether the evaluated controllers are computationally practical for near-real-time demand-response operation.

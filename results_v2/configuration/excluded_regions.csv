@@ -1,0 +1,25 @@
+electricity_system,geographic_region,reason
+CY,Southern Europe,missing actual solar
+FI,Northern Europe,missing actual solar
+GB_NIR,Western Europe,missing actual solar
+HR,Southeastern Europe,insufficient usable rows (16 < 8000); insufficient continuous hourly coverage (16 < 1344)
+IE,Western Europe,missing actual solar
+IE_sem,Western Europe,missing actual solar
+LU,Western Europe,missing actual solar; missing actual wind
+LV,Northern Europe,missing actual solar
+ME,Southeastern Europe,missing actual solar
+NO,Northern Europe,missing actual solar
+NO_1,Northern Europe,missing actual solar
+NO_2,Northern Europe,missing actual solar
+NO_3,Northern Europe,missing actual solar
+NO_4,Northern Europe,missing actual solar
+NO_5,Northern Europe,missing actual solar
+PL,Central Europe,insufficient usable rows (4170 < 8000)
+PT,Southern Europe,insufficient usable rows (2898 < 8000)
+RS,Southeastern Europe,missing actual solar; missing actual wind
+SE,Northern Europe,missing actual solar
+SE_1,Northern Europe,missing actual solar
+SE_2,Northern Europe,missing actual solar
+SE_3,Northern Europe,missing actual solar
+SE_4,Northern Europe,missing actual solar
+UA,Other Europe,missing actual solar; missing actual wind
